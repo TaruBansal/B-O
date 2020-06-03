@@ -282,3 +282,13 @@
     font-size:18px;
     margin-top:1px;
 }
+
+#SpeakerLink:link, #SpeakerLink:visited  {
+    text-decoration: none !important;
+    color: inherit;
+}
+
+#SpeakerLink:hover, #SpeakerLink:active {
+    text-decoration: none !important;
+    color: white;
+}
