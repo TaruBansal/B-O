@@ -1,7 +1,6 @@
-﻿<style>
-
+﻿
 * {
-      box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 .bo {
@@ -10,11 +9,11 @@
     font-size: 25px;
     padding-top:0.1px;
     padding-bottom:5px;
-     cursor:pointer;
+    cursor:pointer;
 }
 
 .bo:hover {
-     background:inherit;
+    background:inherit;
     color:white;
 }
 
@@ -25,7 +24,7 @@
     cursor:pointer;
 }
 
-.btn:hover { 
+.btn:hover {
     background:inherit;
     color:white;
 }
@@ -35,11 +34,11 @@
     background-color:lightgrey;
     padding: 10px 30px 10px 30px;
     cursor:pointer;
- } 
+}
 
 .button:hover {
     background-color:white;
-}  
+}
 
 .top-rows {
     display: flex;
@@ -73,7 +72,7 @@
     top:30px;
     left:30px;
     bottom:50px;
-   
+
 }
 
 .Ba9 {
@@ -81,7 +80,7 @@
     visibility:hidden;
     opacity:0;
     bottom:50px;
-    left:140px; 
+    left:140px;
 }
 
 .column:hover  .Ba9 {
@@ -94,7 +93,7 @@
     visibility:hidden;
     opacity:0;
     bottom:50px;
-   left:140px;
+    left:140px;
 }
 
 .column:hover  .bronze {
@@ -107,7 +106,7 @@
     visibility:hidden;
     opacity:0;
     bottom:50px;
-   left:140px;
+    left:140px;
 }
 
 
@@ -132,11 +131,11 @@
     bottom:24px;
     left:150px;
     cursor:pointer;
- } 
+}
 
 .buttons:hover {
     background-color:white;
-}  
+}
 
 .grid1 {
     display:flex;
@@ -150,7 +149,7 @@
 
 .line1 {
     position:relative;
-}    
+}
 
 .line2 {
     position:relative;
@@ -173,7 +172,7 @@
     position:absolute;
     opacity:0;
     padding:10px 30px 10px 30px;
-     cursor:pointer;
+    cursor:pointer;
 }
 
 .line1:hover .gridbtn {
@@ -189,7 +188,7 @@
 .gridbtn:hover {
     background-color:white;
 }
-    
+
 
 .lastimg {
     display:flex;
@@ -248,8 +247,8 @@
 
 .forms {
     position:absolute;
-   
-    
+
+
 }
 
 #f1 {
@@ -263,19 +262,19 @@
     border:none;
     background-color:lightgrey;
     padding: 15px 70px 15px 70px;
-     cursor:pointer;
- } 
+    cursor:pointer;
+}
 
 .ss:hover {
     background-color:grey;
     color:white;
-}  
+}
 
 .final {
     display:flex;
     margin-top:60px;
     margin-left:45px;
-     cursor:pointer;
+    cursor:pointer;
 }
 
 .copyright {
@@ -283,5 +282,3 @@
     font-size:18px;
     margin-top:1px;
 }
-
-</style>
